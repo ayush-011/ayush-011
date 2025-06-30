@@ -1,27 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate Web Developer and Programming Enthusiast form India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-011&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-011" /> </p>
-
-- 🌱 I’m currently learning **React.js, Next.js, TypeScript, Tailwind CSS, and System Design**
-
-- 💬 Ask me about **JavaScript, React, REST APIs, Firebase, Web Hosting, and Git/GitHub**
-
-- 📫 How to reach me **ayushpandey11056@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@ayush_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ayush_11" height="30" width="40" /></a>
-<a href="https://twitter.com/_ayush_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ayush_11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush-pandey-28aa892b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-pandey-28aa892b5" height="30" width="40" /></a>
-<a href="https://instagram.com/ayush11_ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush11_ig" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@gameraashu321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gameraashu321" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayush11056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush11056" height="30" width="40" /></a>
+<!-- Header Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ayush+Pandey;A+Passionate+Web+Developer;Future+Software+Engineer" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h2 align="center">🌟 Ayush Pandey 🌟</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-011&show_icons=true&locale=en&layout=compact" alt="ayush-011" /></p>
+<p align="center">
+  🚀 B.Tech CSE Student | Web Developer | AI Enthusiast | DSA Explorer
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-011&show_icons=true&locale=en" alt="ayush-011" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushpandey&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+```js
+const ayush = {
+  pronouns: "he/him",
+  code: ["JavaScript", "Python", "HTML", "CSS"],
+  askMeAbout: ["Web Dev", "Frontend", "JavaScript", "React", "AI"],
+  challenge: "Learning full-stack dev & solving DSA problems daily!",
+  hobbies: ["Music", "Chess", "Coding Challenges", "Tech Videos"],
+  goal: "To become an outstanding software developer in 2025"
+};
