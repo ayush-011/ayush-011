@@ -1,4 +1,4 @@
-<!-- Profile Banner with Typing Effect -->
+<!-- Profile Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Pandey;Web+Developer+%7C+React+%7C+Node.js+%7C+DSA+Enthusiast;Let's+Build+Cool+Stuff+Together+%F0%9F%92%BB" alt="Typing Intro" />
 </p>
@@ -7,7 +7,7 @@
 
 <p align="center">
   A passionate Full-Stack Developer from India 🇮🇳<br>
-  Currently exploring the depths of JavaScript, React, Node.js, and building real-world projects.  
+  I love building real-world apps and solving meaningful problems with JavaScript, React, Node.js, and beyond.  
 </p>
 
 ---
@@ -41,47 +41,31 @@
 
 ---
 
-### 🚀 My Dev Playground
+### 🔍 Explore My Work
 
-| 🚧 Project | 💡 Description | 🔧 Tech Stack |
-|-----------|----------------|---------------|
-| 🎧 JS Audio Player | A beautiful custom audio player using vanilla JS | HTML, CSS, JavaScript |
-| 🌾 FarmX | AI-based crop advisory & farming tool | JS, OpenAI API, HTML |
-| 💬 CampusChat | Chat platform for college students | React, Firebase, Node.js |
-| 📄 Typing Speed App | Real-time typing speed game | JavaScript, DOM, CSS |
-
-> ✨ Explore more at: [github.com/ayushpandey](https://github.com/ayushpandey?tab=repositories)
+> 🧠 Dive into my code, experiments, and full-stack creations here:  
+> [👉 github.com/ayush-011?tab=repositories](https://github.com/ayush-011?tab=repositories)
 
 ---
 
 ### 📊 GitHub Activity Dashboard
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushpandey&theme=dracula&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayush-011&theme=dracula&row=1&column=7" alt="Trophies" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushpandey&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpandey&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-011&show_icons=true&theme=tokyonight&cache_seconds=0" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-011&layout=compact&theme=tokyonight&cache_seconds=0" height="180px"/>
 </p>
-
----
-
-### 🔍 Current Focus
-
-- 💻 Mastering React.js through real-world projects  
-- 🔐 Deep-diving into Express.js & REST API development  
-- ⚙️ Building my own full-stack apps using MongoDB & Node.js  
-- 🧠 Solving JavaScript-based DSA problems regularly  
-- 🏆 Participating in hackathons & tech challenges  
 
 ---
 
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/ayushpandey"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:ayushpandey11056@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ayush11056/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/_ayush_11"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/ayush-011"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
