@@ -4,7 +4,9 @@
 </p>
 
 
+
 <h2 align="center">💻 Code. Build. Repeat. 🚀</h2>
+
 
 <p align="center">
   A passionate Full-Stack Developer from India 🇮🇳<br>
@@ -45,17 +47,19 @@
 ### 🔍 Explore My Work
 
 > 🧠 Dive into my code, experiments, and full-stack creations here:  
-> [👉 github.com/ayush-011?tab=repositories](https://github.com/ayush-011?tab=repositories)
+> 👉 [github.com/ayush-011?tab=repositories](https://github.com/ayush-011?tab=repositories)
 
 ---
 
 ### 📊 GitHub Activity Dashboard
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayush-011&theme=dracula&row=1&column=7" alt="Trophies" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-011&show_icons=true&theme=tokyonight&cache_seconds=0" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-011&layout=compact&theme=tokyonight&cache_seconds=0" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-011&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-011&layout=compact&theme=tokyonight&hide_border=false" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayush-011&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -72,5 +76,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1d,3a4750,00adb5&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontColor=ffffff&fontSize=22&animation=fadeIn" />
 </p>
