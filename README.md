@@ -1,7 +1,8 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Pandey;Web+Developer+%7C+React+%7C+Node.js+%7C+DSA+Enthusiast;Let's+Build+Cool+Stuff+Together+%F0%9F%92%BB" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFC2&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey%2C+I'm+Ayush;React+%7C+Node.js+%7C+MongoDB+%7C+DSA;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing Intro" />
 </p>
+
 
 <h2 align="center">💻 Code. Build. Repeat. 🚀</h2>
 
