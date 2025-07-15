@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 <p align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFC2&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey%2C+I'm+Ayush;React+%7C+Node.js+%7C+MongoDB+%7C+DSA;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFC2&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey%2C+I'm+Ayush;React+%7C+Node.js+%7C+MongoDB+%7C+DSA" alt="Typing Intro" />
   
 </p>
 
