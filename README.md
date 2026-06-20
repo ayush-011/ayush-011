@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=52&letter-spacing=2px&duration=3000&pause=1200&color=88B4C8&center=true&vCenter=true&width=700&height=90&lines=Ayush+Pandey;Full+Stack+Developer;Building+in+Public" alt="Ayush Pandey" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=52&letter-spacing=2px&duration=3000&pause=1200&color=88B4C8&center=true&vCenter=true&width=700&height=90&lines=Full+Stack+Developer;Building+in+Public" alt="Full Stack Developer" />
 
 </div>
 
