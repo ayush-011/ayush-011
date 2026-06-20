@@ -37,7 +37,7 @@
 <h2 align="center">
 <a href="mailto:ayushpandey11056@gmail.com"><img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=88B4C8&labelColor=0D1117&color=0D1117" /></a>
 <a href="https://www.linkedin.com/in/ayush11056/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=88B4C8&labelColor=0D1117&color=0D1117" /></a>
-<a href="https://github.com/ayush-011"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=88B4C8&labelColor=0D1117&color=0D1117" /></a>
+<a href="https://leetcode.com/ayush11056/"><img src="https://img.shields.io/badge/LEETCODE-1C1C1C?style=for-the-badge&logo=leetcode&logoColor=88B4C8&labelColor=0D1117&color=0D1117" /></a>
 </h2>
 
 <h2 align="center">
