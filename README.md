@@ -1,82 +1,45 @@
-<!-- Profile Banner -->
-<p align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFC2&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey%2C+I'm+Ayush;React+%7C+Node.js+%7C+MongoDB+%7C+DSA" alt="Typing Intro" />
-  
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=52&letter-spacing=2px&duration=3000&pause=1200&color=88B4C8&center=true&vCenter=true&width=700&height=90&lines=Ayush+Pandey;Full+Stack+Developer;Building+in+Public" alt="Ayush Pandey" />
+
+</div>
+
+<hr/>
+
+<h2 align="center">🧩&nbsp; STACK</h2>
+<br/>
+
+| | |
+|:--|:--|
+| **LANGUAGES** | ![C++](https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=88B4C8&labelColor=161B22&logoWidth=20) ![Java](https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=88B4C8&labelColor=161B22&logoWidth=20) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=88B4C8&labelColor=161B22&logoWidth=20) ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=88B4C8&labelColor=161B22&logoWidth=20) ![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=88B4C8&labelColor=161B22&logoWidth=20) ![SQL](https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=mysql&logoColor=88B4C8&labelColor=161B22&logoWidth=20) |
+| **FRONTEND** | ![HTML5](https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=88B4C8&labelColor=161B22&logoWidth=20) ![CSS3](https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=88B4C8&labelColor=161B22&logoWidth=20) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=88B4C8&labelColor=161B22&logoWidth=20) ![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=88B4C8&labelColor=161B22&logoWidth=20) ![Next.js](https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=88B4C8&labelColor=161B22&logoWidth=20) |
+| **BACKEND** | ![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=88B4C8&labelColor=161B22&logoWidth=20) ![Express](https://img.shields.io/badge/Express.js-161B22?style=for-the-badge&logo=express&logoColor=88B4C8&labelColor=161B22&logoWidth=20) |
+| **DATABASE** | ![MySQL](https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=88B4C8&labelColor=161B22&logoWidth=20) |
+| **TOOLS** | ![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=88B4C8&labelColor=161B22&logoWidth=20) ![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=88B4C8&labelColor=161B22&logoWidth=20) ![VS Code](https://img.shields.io/badge/VS_Code-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=88B4C8&labelColor=161B22&logoWidth=20) |
+
+<hr/>
+
+<h2 align="center">📊&nbsp; ANALYTICS</h2>
+<br/>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ayush-011&show_icons=true&hide_border=true&bg_color=0D1117&title_color=88B4C8&icon_color=88B4C8&text_color=8B949E&hide_title=true&rank_icon=github&cache_seconds=1800" width="480"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-011&layout=compact&hide_border=true&bg_color=0D1117&title_color=88B4C8&text_color=8B949E&cache_seconds=1800" width="360"/>
+    </td>
+  </tr>
+</table>
 
 
+<h2 align="center">
+<a href="mailto:ayushpandey11056@gmail.com"><img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=88B4C8&labelColor=0D1117&color=0D1117" /></a>
+<a href="https://www.linkedin.com/in/ayush11056/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=88B4C8&labelColor=0D1117&color=0D1117" /></a>
+<a href="https://github.com/ayush-011"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=88B4C8&labelColor=0D1117&color=0D1117" /></a>
+</h2>
 
-<h2 align="center">💻 Code. Build. Repeat. 🚀</h2>
-
-
-<p align="center">
-  A passionate Full-Stack Developer from India 🇮🇳<br>
-  I love building real-world apps and solving meaningful problems with JavaScript, React, Node.js, and beyond.  
-</p>
-
----
-
-### 🧠 Tech Stack Expertise
-
-#### 🖥️ Front-End
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-</p>
-
-#### 🧩 Back-End & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black"/>
-</p>
-
-#### 🛠️ Dev Tools & Version Control
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-</p>
-
----
-
-### 🔍 Explore My Work
-
-> 🧠 Dive into my code, experiments, and full-stack creations here:  
-> 👉 [github.com/ayush-011?tab=repositories](https://github.com/ayush-011?tab=repositories)
-
----
-
-### 📊 GitHub Activity Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-011&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-011&layout=compact&theme=tokyonight&hide_border=false" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayush-011&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="mailto:ayushpandey11056@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ayush11056/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/_ayush_11"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/ayush-011"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1d,3a4750,00adb5&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontColor=ffffff&fontSize=22&animation=fadeIn" />
-</p>
+<h2 align="center">
+<sub><strong>console.log("thanks for visiting")</strong></sub>
+</h2>
