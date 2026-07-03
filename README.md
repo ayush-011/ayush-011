@@ -25,13 +25,14 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ayush-011&show_icons=true&hide_border=true&bg_color=0D1117&title_color=88B4C8&icon_color=88B4C8&text_color=8B949E&hide_title=true&rank_icon=github&cache_seconds=1800" width="480"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=ayush-011&show_icons=true&hide_border=true&bg_color=0D1117&title_color=88B4C8&icon_color=88B4C8&text_color=8B949E&hide_title=true&rank_icon=github&cache_seconds=1800" width="480"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-011&layout=compact&hide_border=true&bg_color=0D1117&title_color=88B4C8&text_color=8B949E&cache_seconds=1800" width="360"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayush-011&layout=compact&hide_border=true&bg_color=0D1117&title_color=88B4C8&text_color=8B949E&cache_seconds=1800" width="360"/>
     </td>
   </tr>
 </table>
+
 
 
 <h2 align="center">
